@@ -1,0 +1,10 @@
+*.dta
+*.sas7bdat
+*.sav
+*.log
+*.smcl
+*.gph
+.DS_Store
+Thumbs.db
+*~
+*.swp

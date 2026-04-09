@@ -1,0 +1,17 @@
+Wu et al. (2016) Replication and Corrections
+HR per 1-year increase in retirement age
+=============================================
+
+HEALTHY RETIREES
+Method                         ,HR    ,LCI  ,UCI
+Wu replication (baseline),0.923,0.894,0.953
+Time-origin at retirement,1.154,1.106,1.203
+Age as time scale,0.949,0.917,0.982
+Landmark (Jan 2005),0.952,0.911,0.995
+
+UNHEALTHY RETIREES
+Method                         ,HR    ,LCI  ,UCI
+Wu replication (baseline),0.925,0.900,0.951
+Time-origin at retirement,1.090,1.051,1.130
+Age as time scale,0.971,0.942,1.000
+Landmark (Jan 2005),0.968,0.925,1.012
